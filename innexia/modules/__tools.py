@@ -1,4 +1,4 @@
-﻿__mod_name__ = "Extra🚶"
+﻿__mod_name__ ="
 
 __help__ = """
 *Telegraph*
